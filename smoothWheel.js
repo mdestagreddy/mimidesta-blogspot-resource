@@ -1,7 +1,7 @@
 const smoothWheel_defaultOptions = {
     friction: 0.1,
     minDelta: 0.001,
-    deltaSpeed: 1.25,
+    deltaSpeed: 0.5,
     smoothDelta: 0.1
 }
 
